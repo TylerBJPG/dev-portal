@@ -1,0 +1,926 @@
+{
+  "current": {
+    "ezone_theme_color": "#050035",
+    "header_style": "style_7",
+    "favicon_enable": true,
+    "supported_currencies": "USD, USD | EUR, EUR | GBP, GBP",
+    "topbar_notification_enable": false,
+    "notification_style": "style_1",
+    "notification_text": "Get A big Discount for Gadgets. 10% to 70% Discount for all products. Save money  SHOP NOW",
+    "notification_button_name": "Buy Now",
+    "notification_button_url": "shopify:\/\/collections\/all",
+    "notification_bg_image": "",
+    "notification_text_color": "#666666",
+    "topbar_color_1": "rgba(0,0,0,0)",
+    "topbar_color_2": "rgba(0,0,0,0)",
+    "notificaction_button_bg_color": "#ebf9ff",
+    "notificaction_button_color": "#666666",
+    "notificaction_button_hover_bg_color": "#333333",
+    "notificaction_button_hover_color": "#ffffff",
+    "notificaction_close_button_bg_color": "#ffffff",
+    "notificaction_close_button_color": "#666666",
+    "notificaction_close_button_hover_bg_color": "#333333",
+    "notificaction_close_button_hover_color": "#ffffff",
+    "search_text": "Search What you want",
+    "search_submit_text": "Search",
+    "breadcrumb_banner_enable": true,
+    "breadcrumb_banner_image": "shopify:\/\/shop_images\/breadcrumb.jpg",
+    "breadcurmb_title_color": "#ffffff",
+    "breadcurmb_page_title_color": "#ffffff",
+    "active_breadcurmb_page_title_color": "#ffffff",
+    "newsletter_action": "http:\/\/devitems.us11.list-manage.com\/subscribe\/post?u=6bbb9b6f5827bd842d9640c82&amp;id=05d85f18ef",
+    "email_placeholder": "Enter Your E-mail",
+    "button_name": "Subscribe",
+    "newsletter_popup_enable": false,
+    "one_day_popup_enable": true,
+    "newletter_popup_title": "Newletter",
+    "newsletter_text": "Join over 1,000 people who get free and fresh content delivered automatically each time we publish",
+    "newsletter_button_name": "Subscribe",
+    "newsletter_img": "",
+    "newsletter_overlay_color": "#000",
+    "newsletter_overlay_opacicty": 0.6,
+    "popup_newsletter_title_color": "#434343",
+    "popup_newsletter_description_color": "#999",
+    "input_fild_color": "#ddd",
+    "newsletter_button_bg_color": "#ec552c",
+    "newsletter_button_color": "#fff",
+    "close_icon_color": "#ec552c",
+    "product_grid_style": "grid_7",
+    "add_to_cart_text": "Add to cart",
+    "out_of_stock_text": "Out of Stock",
+    "product_review_enable": true,
+    "product_type_enable": true,
+    "new_sticker_enable": true,
+    "on_sale_sticker_enable": true,
+    "hot_sticker_enable": false,
+    "product_title_ttransform": "capitalize",
+    "cl_search_title": "Search Products",
+    "cl_search_placeholder": "Search Products...",
+    "categories_title": "Categories",
+    "categories_list_limit_handle": "5",
+    "vendors_title": "Vendors",
+    "vendor_list_limit_handle": "5",
+    "types_title": "Products Types",
+    "types_list_limit_hanlde": "5",
+    "size_title": "Size",
+    "size_picker": "xl, xs, ml, X, M, L",
+    "size_list_limit_hanlde": "5",
+    "color_title": "Color",
+    "color_picker": "gray, yellow, black, brown, magenta, orange, purple, pink, violet",
+    "colors_list_limit_hanlde": "5",
+    "tags_title": "Tags",
+    "tags_list_limit_handle": "15",
+    "top_product_title": "Top Rated Product",
+    "top_product_handle": "on-sale",
+    "top_product_limit_handle": "4",
+    "total_title": "Total",
+    "view_cart_title": "View Cart",
+    "checkout_title": "Checkout",
+    "cart_notes_enable": true,
+    "cart_vendor_enable": false,
+    "blog_grid_style": "grid_1",
+    "author_image": "shopify:\/\/shop_images\/Untitled-1.jpg",
+    "author_details_enable": true,
+    "author_details": "On the other hand, dislike men who are so beguiled and the demoralized by the charms of pleasure of the moment.",
+    "author_name": "Tayeb rayed",
+    "author_designation": "Shopify Developer",
+    "author_social_enable": true,
+    "social_1_name": "facebook",
+    "social_1_url": "#",
+    "social_2_name": "twitter",
+    "social_2_url": "#",
+    "social_3_name": "tumblr",
+    "social_3_url": "#",
+    "social_4_name": "",
+    "social_4_url": "",
+    "social_5_name": "",
+    "social_5_url": "",
+    "search_title": "Search",
+    "blog_search_placeholder": "Search on blog",
+    "recent_post_title": "Recent Post",
+    "recent_post_limit_handle": "5",
+    "archive_title": "Archive",
+    "blog_tags_title": "Tags",
+    "blog_tags_list_limit_handle": "15",
+    "wishlist_empty_title": "Your wishlist is currently empty!",
+    "login_request_title": "Please login your account",
+    "opps_404": "shopify:\/\/shop_images\/404.png",
+    "heading_404": "Ooops.... Error 404",
+    "sub_text_404": "Sorry, But the page you are looking for doesn't exist",
+    "button_title": "Go back home",
+    "button_url": "\/",
+    "google_map_api_key": "AIzaSyCBEypW1XtGLWpikFPcityAok8rhJzzWRw",
+    "latitude": "47.606205",
+    "languid": "-122.332046",
+    "map_icon_image": "shopify:\/\/shop_images\/46.png",
+    "google_analytic_enable": true,
+    "google_tracking_id": "UA-91020528-1",
+    "enable_preloader": false,
+    "preloader_style": "Style_15",
+    "preloader_bg": "#ffffff",
+    "preloader_color": "#ff7f00",
+    "preloader_border_color": "#ffffff",
+    "preloader_border_width": "4px",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "header_style_other_page": "style_3",
+    "color_primary": "#747474",
+    "color_secondary": "#bbb",
+    "color_borders": "#e5e5e5",
+    "color_body_bg": "#fff",
+    "color_body_text": "#333333",
+    "color_footer_bg": "#f2f2f2",
+    "color_footer_text": "#636363",
+    "color_footer_social_link": "#bbbbbb",
+    "breadcrumb_banner_bg": "#ea2626",
+    "breadcrumb_banner_overlay_color": "#de1212",
+    "breadcrumb_banner_opacity": 0.6,
+    "breadcrumb_banner_image_enable": false,
+    "ajax_cart_method": "drawer",
+    "notification_overlay_rgb_color": "254, 100, 262",
+    "notification_overlay_opacity": 0,
+    "notificaction_button_border_color": "#1c1818",
+    "notificaction_button_hover_border_color": "#3ee326",
+    "notificaction_close_button_border_color": "#fff",
+    "notificaction_close_button_hover_border_color": "#fff",
+    "logo_use_image": false,
+    "logo_max_width": "450",
+    "successfull_note": "Added to cart successfully!",
+    "view_cart_button2": "View Cart",
+    "checkout_use_storefront_logo": false,
+    "footer_newsletter_enable": true,
+    "footer_social_enable": true,
+    "social_facebook_link": "",
+    "social_twitter_link": "",
+    "sections": {
+      "header-top": {
+        "type": "header-top",
+        "settings": {
+          "header_top_enable": false,
+          "header_top_fullwidth": false,
+          "ht_bg_color": "",
+          "ht_bg_img": "",
+          "ht_border_bottom_enable": true,
+          "ht_ptb": "20",
+          "ht_plr": "80"
+        }
+      },
+      "header-bottom": {
+        "type": "header-bottom",
+        "settings": {
+          "header_bottom_width": "full_wide",
+          "logo": "shopify:\/\/shop_images\/2.png",
+          "logo_4_otherpage": "shopify:\/\/shop_images\/2.png",
+          "login_rg_text": "Get Access:",
+          "hb_custm_menu_handle": "header-menu",
+          "hb_padding_top": "0",
+          "hb_padding_bottom": "0",
+          "hb_bg_color": "",
+          "hb_bg_img": "",
+          "cat_menu_title": "All Products",
+          "category_menu_handle": "",
+          "product_trace_enable": true,
+          "product_trace_icon": "pe-7s-plane",
+          "product_trace_text": "Product <br>trace",
+          "product_trace_url": "",
+          "header_btn_text": "Buy Now",
+          "header_btn_url": "shopify:\/\/collections\/all",
+          "hb9_bg_color": "",
+          "header_btn_text_color": "",
+          "header_btn_bg_color": ""
+        }
+      },
+      "footer-top": {
+        "type": "footer-top",
+        "blocks": {
+          "1524120914016": {
+            "type": "store_info",
+            "settings": {
+              "store_info_col_lg": "5",
+              "store_info_col_md": "6",
+              "store_logo_enable": true,
+              "store_logo": "shopify:\/\/shop_images\/2.png",
+              "store_info_url": "\/",
+              "store_title": "",
+              "store_title_style": "style_2",
+              "store_description": "There are many variations of passages of Lorem Ipsum<br> \nthe majority have suffered alteration in some form, by<br> \ninjected humour",
+              "store_contact_details_enable": false,
+              "store_address_icon": "",
+              "store_address": "",
+              "store_phone_icon": "",
+              "store_phone_number": "",
+              "store_email_icon": "",
+              "store_email": ""
+            }
+          },
+          "1524126354069": {
+            "type": "contact_us",
+            "settings": {
+              "contact_us_title": "Contact Us",
+              "contact_us_title_style": "style_2",
+              "contact_us_col_lg": "4",
+              "contact_us_col_md": "6",
+              "business_address_title": "<b>Address: <\/b>",
+              "business_address": "Your address goes here<br>\nDummy store address",
+              "business_phn_title": "<b>Phone:<\/b>",
+              "business_phn_number": "+11 (019) 2518 4203 <br>+11 (251) 2223 3353",
+              "business_email_title": "<b>Email:<\/b>",
+              "business_email": "info@example1.com<br>\ninfo@example2.com"
+            }
+          },
+          "1524126570531": {
+            "type": "newsletter",
+            "settings": {
+              "newsletter_title": "Newsletter",
+              "newsletter_subtitle": "Send us your mail or next updates",
+              "newsletter_col_lg": "3",
+              "newsletter_col_md": "6"
+            }
+          }
+        },
+        "block_order": [
+          "1524120914016",
+          "1524126354069",
+          "1524126570531"
+        ],
+        "settings": {
+          "footer_top_newsletter_enable": false,
+          "newsletter_title": "Don’t Miss our Latest Update",
+          "newsletter_subtitle": "Subscribe to our newsletter for next all updates and promotions. You can also get Discount code for Discount.",
+          "newsletter_title_color": "",
+          "newsletter_subtitle_color": "",
+          "banner_width": "full_wide",
+          "footer_bg_color": "",
+          "footer_bg_img": "",
+          "overlay_opacity": 0,
+          "padding_top": "70",
+          "padding_bottom": "20",
+          "widget_title_color": "#383838",
+          "widget_title_font": "poppins",
+          "widget_title_font_size": "30",
+          "widget_title_text_transform": "capitalize",
+          "widget_title_font_weight": "bold",
+          "widget_content_color": "#666666",
+          "footer_content": "style_2",
+          "widget_content_font": "poppins",
+          "widget_content_font_weight": "normal"
+        }
+      },
+      "footer-bottom": {
+        "type": "footer-bottom",
+        "blocks": {
+          "1524126801858": {
+            "type": "copyright_text",
+            "settings": {
+              "copyright_text": "Copyright © <a href=\"#\">Ezone<\/a> 2018 . All Right Reserved.",
+              "copyright_text_style": "style_1",
+              "copyright_text_position": "center",
+              "copyright_col_lg": "12",
+              "copyright_col_md": "12",
+              "copyright_text_color": "#666666",
+              "anchor_text_color": "#333333"
+            }
+          }
+        },
+        "block_order": [
+          "1524126801858"
+        ],
+        "settings": {
+          "footer_bottom_enable": true,
+          "footer_bottom_border_enable": false,
+          "footer_bottom_width": "wide",
+          "padding_top": "20",
+          "padding_bottom": "20",
+          "footer_bottom_bg_color": "#f6f6f6"
+        }
+      },
+      "1524118359684": {
+        "type": "slider-furniture",
+        "blocks": {
+          "1524118359684-0": {
+            "type": "slide",
+            "settings": {
+              "slider_bg_image": "shopify:\/\/shop_images\/9.jpg",
+              "slider_content_position_right": true,
+              "slider_title": "Comfort  <br>Collection.",
+              "slider_subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "slider_btn_text": "Buy Now",
+              "slider_btn_url": "shopify:\/\/collections\/all",
+              "slider_title_color": "",
+              "slider_subtitle_color": "",
+              "slider_btn_color": "",
+              "slider_btn_bg_color": ""
+            }
+          },
+          "1524118359684-1": {
+            "type": "slide",
+            "settings": {
+              "slider_bg_image": "shopify:\/\/shop_images\/19.jpg",
+              "slider_content_position_right": true,
+              "slider_title": "Comfort  <br>Collection.",
+              "slider_subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "slider_btn_text": "Buy Now",
+              "slider_btn_url": "shopify:\/\/collections\/all",
+              "slider_title_color": "",
+              "slider_subtitle_color": "",
+              "slider_btn_color": "",
+              "slider_btn_bg_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "1524118359684-0",
+          "1524118359684-1"
+        ],
+        "settings": {
+          "slider_autoplay_enable": true
+        }
+      },
+      "1524118520468": {
+        "type": "featured-product-carousel",
+        "settings": {
+          "sect_id": "",
+          "banner_width": "full_wide",
+          "featured_product_style": "featured_product_style_4",
+          "title_bg_img": "",
+          "section_title_img_enable": true,
+          "section_title_img": "",
+          "section_title": "Popular Product",
+          "section_title_color": "",
+          "section_subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+          "section_subtitle_color": "",
+          "featured_product_handle": "featured",
+          "product_column": "4",
+          "featured_product_limit_handle": "8",
+          "padding_top": "115",
+          "padding_bottom": "118"
+        }
+      },
+      "1524119379457": {
+        "type": "single-banner-furniture",
+        "settings": {
+          "banner_width": "wide",
+          "banner_img": "shopify:\/\/shop_images\/28.jpg",
+          "banner_text1": "Verified quality",
+          "banner_text2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "banner_title": "Summer Discount <br>Up to 30%",
+          "banner_subtitle": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+          "banner_btn_text": "Buy Now",
+          "banner_btn_url": "shopify:\/\/collections\/all",
+          "padding_top": "0",
+          "padding_bottom": "120",
+          "padding_left_right": "0",
+          "banner_text1_color": "",
+          "banner_text2_color": "",
+          "banner_title_color": "",
+          "banner_subtitle_color": "",
+          "banner_btn_text_color": "",
+          "banner_btn_border_color": "#666666",
+          "banner_btn_hover__text_color": "#ffffff",
+          "banner_btn_hover_border_color": "#000000",
+          "banner_btn_hover_bg_color": "#000000"
+        }
+      },
+      "1524119659328": {
+        "type": "single-banner-furniture-2",
+        "settings": {
+          "banner_img": "shopify:\/\/shop_images\/29.jpg",
+          "banner_title": "Premium  Home <br>Decorator",
+          "banner_btn_text": "Learn More",
+          "banner_btn_url": "shopify:\/\/collections\/all",
+          "padding_top": "0",
+          "padding_bottom": "115",
+          "padding_left_right": "0",
+          "banner_title_color": "",
+          "banner_btn_text_color": "",
+          "banner_btn_border_color": "",
+          "banner_btn_hover__text_color": "",
+          "banner_btn_hover_border_color": ""
+        }
+      },
+      "1524120196366": {
+        "type": "tab-with-products-furniture",
+        "blocks": {
+          "1524120196366-0": {
+            "type": "tab_products",
+            "settings": {
+              "tab_collection_handle": "featured"
+            }
+          },
+          "1524120196366-1": {
+            "type": "tab_products",
+            "settings": {
+              "tab_collection_handle": "new-arrivals"
+            }
+          },
+          "1524120196366-2": {
+            "type": "tab_products",
+            "settings": {
+              "tab_collection_handle": "on-sale"
+            }
+          },
+          "1524120196366-3": {
+            "type": "tab_products",
+            "settings": {
+              "tab_collection_handle": "trending"
+            }
+          }
+        },
+        "block_order": [
+          "1524120196366-0",
+          "1524120196366-1",
+          "1524120196366-2",
+          "1524120196366-3"
+        ],
+        "settings": {
+          "section_title": "All Products",
+          "section_subtitle": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+          "product_column": "5",
+          "tab_product_limit_handle": "10",
+          "banner_btn": "View All Product",
+          "banner_btn_url": "shopify:\/\/collections\/all",
+          "padding_top": "0",
+          "padding_bottom": "120",
+          "section_title_color": "",
+          "section_subtitle_color": "",
+          "btn_text_color": "#383838",
+          "btn_border_color": "#383838",
+          "btn_hover_text_color": "#ffffff",
+          "btn_hover_border_color": "#383838",
+          "btn_hover_bg_color": "#383838"
+        }
+      },
+      "1524120309409": {
+        "type": "testimonial",
+        "blocks": {
+          "1524120355647": {
+            "type": "testimonial_style_5",
+            "settings": {
+              "client_img": "shopify:\/\/shop_images\/1.png",
+              "client_comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+              "client_signature": "shopify:\/\/shop_images\/2_ff209717-dd4d-4c51-9a49-d1f732d821a4.png",
+              "client_name": "Dr. Khairul Vasher Arif",
+              "client_designation": "CEO of KB’s Kitchen"
+            }
+          },
+          "1524120525735": {
+            "type": "testimonial_style_5",
+            "settings": {
+              "client_img": "shopify:\/\/shop_images\/1.png",
+              "client_comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nsed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+              "client_signature": "shopify:\/\/shop_images\/2_ff209717-dd4d-4c51-9a49-d1f732d821a4.png",
+              "client_name": "Dr. Khairul Vasher Arif",
+              "client_designation": "CEO of KB’s Kitchen"
+            }
+          }
+        },
+        "block_order": [
+          "1524120355647",
+          "1524120525735"
+        ],
+        "settings": {
+          "pagination_enable": false,
+          "banner_width": "wide",
+          "section_title": "",
+          "section_title_style": "style_1",
+          "bg_img": "",
+          "margin_top": "0",
+          "padding_top": "0",
+          "padding_bottom": "116",
+          "testi_overlay_opacity": 0,
+          "section_title_color": "",
+          "quote_color": "",
+          "client_comment_color": "",
+          "client_name_color": "",
+          "client_designation_color": "",
+          "ratting_icon_color": ""
+        }
+      },
+      "1524120766681": {
+        "type": "services-furniture",
+        "blocks": {
+          "1524120766681-0": {
+            "type": "services",
+            "settings": {
+              "service_img_enable": true,
+              "service_img": "shopify:\/\/shop_images\/26.png",
+              "service_title": "Free Shipping",
+              "service_description": "Contrary to popular belief, Lorem Ipsum is random text."
+            }
+          },
+          "1524120766681-1": {
+            "type": "services",
+            "settings": {
+              "service_img_enable": true,
+              "service_img": "shopify:\/\/shop_images\/27.png",
+              "service_title": "24\/7 Support",
+              "service_description": "Contrary to popular belief, Lorem Ipsum is random text."
+            }
+          },
+          "1524120766681-2": {
+            "type": "services",
+            "settings": {
+              "service_img_enable": true,
+              "service_img": "shopify:\/\/shop_images\/28.png",
+              "service_title": "Secure Payments",
+              "service_description": "Contrary to popular belief, Lorem Ipsum is random text."
+            }
+          }
+        },
+        "block_order": [
+          "1524120766681-0",
+          "1524120766681-1",
+          "1524120766681-2"
+        ],
+        "settings": {
+          "padding_top": "116",
+          "padding_bottom": "76",
+          "service_title_color": "",
+          "service_description_color": "",
+          "bg_color": "#fafafa"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "cl_page_width": "full_wide",
+          "product_column_xl": "4",
+          "product_column_lg": "6",
+          "products_limit_handle": "12",
+          "sorting_enable": true,
+          "tab_filter_enable": true,
+          "collection_sidebar_enable": true,
+          "sidebar_position": "left",
+          "cl_sidebar_search_enable": true,
+          "categories_enable": true,
+          "vendors_enable": false,
+          "types_enable": false,
+          "color_enable": true,
+          "size_enable": true,
+          "tags_enable": true,
+          "top_rated_product_enable": true
+        }
+      },
+      "collection-list-template": {
+        "type": "collection-list-template",
+        "settings": {
+          "cl_page_width": "full_wide",
+          "product_column": "12",
+          "products_limit_handle": "8",
+          "sorting_enable": true,
+          "tab_filter_enable": true,
+          "collection_sidebar_enable": true,
+          "sidebar_position": "left",
+          "cl_sidebar_search_enable": true,
+          "categories_enable": true,
+          "vendors_enable": false,
+          "types_enable": false,
+          "color_enable": true,
+          "size_enable": true,
+          "tags_enable": true,
+          "top_rated_product_enable": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_details_style": "style_1",
+          "variant_style": "swatch_opt",
+          "product_zoom_enable": true,
+          "thumb_image_enable": true,
+          "rating_enable": true,
+          "wishlist_enable": true,
+          "categories_enable": true,
+          "tags_enable": true,
+          "product_share_enable": true,
+          "share_title": "Share :",
+          "product_share_style": "style_1",
+          "categories_title": "Categories",
+          "categories_list_limit_handle": "5",
+          "tags_title": "Tags:",
+          "tags_list_limit_handle": "3"
+        }
+      },
+      "product-tab": {
+        "type": "product-tab",
+        "blocks": {
+          "1524908292977": {
+            "type": "custom_tab",
+            "settings": {
+              "custom_tab_title": "Shipping Policy",
+              "custom_page_handle": "shipping-policy"
+            }
+          },
+          "1524908306681": {
+            "type": "custom_tab",
+            "settings": {
+              "custom_tab_title": "Size Chart",
+              "custom_page_handle": "size-chart"
+            }
+          }
+        },
+        "block_order": [
+          "1524908292977",
+          "1524908306681"
+        ],
+        "settings": {
+          "product_tab_enable": true,
+          "tab_1_enable": true,
+          "des_tab_title": "Description",
+          "tab_2_enable": true,
+          "review_tab_title": "Reviews",
+          "tab_3_enable": true,
+          "comment_tab_title": "Comments",
+          "product_page_comments_box": "disqus_comment",
+          "facebook_comments_post_limit": "10",
+          "disqus_shortname": "demo-store",
+          "video_tab_title": "Video"
+        }
+      },
+      "related-products": {
+        "type": "related-products",
+        "settings": {
+          "related_products_enable": true,
+          "related_pro_title": "Related Products",
+          "product_c_column": "3",
+          "related_product_limit_handle": "10"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_column": "6",
+          "blog_column_md": "12",
+          "blog_limit_handle": "8",
+          "blog_sidebar_enable": true,
+          "sidebar_position": "left",
+          "blog_author_enable": true,
+          "blog_search_bar_enable": true,
+          "recent_post_enable": true,
+          "tags_enable": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "comment_post_limit_handle": "5",
+          "commentator_image": "shopify:\/\/shop_images\/User_icon_BLACK-01.png",
+          "blog_sidebar_enable": true,
+          "sidebar_position": "left",
+          "blog_author_enable": true,
+          "blog_search_bar_enable": true,
+          "recent_post_enable": true,
+          "tags_enable": true
+        }
+      },
+      "google-map": {
+        "type": "google-map",
+        "settings": {
+          "google_map_enable": true
+        }
+      },
+      "contact-form": {
+        "type": "contact-form",
+        "settings": {
+          "contact_form_enable": true,
+          "contact_form_title": "Contact Information",
+          "name_placeholder": "Name",
+          "email_placeholder": "Email",
+          "telephone_placeholder": "Telephone",
+          "subject_placeholder": "Subject",
+          "comment_placeholder": "Comment",
+          "form_button_name": "Send Message"
+        }
+      },
+      "contact-location": {
+        "type": "contact-location",
+        "blocks": {
+          "1524908451795": {
+            "type": "contact_details",
+            "settings": {
+              "contact_info_icon": "pe-7s-map-marker",
+              "address_title": "Address:",
+              "address_description": "Your address goes here..."
+            }
+          },
+          "1524908456997": {
+            "type": "contact_details",
+            "settings": {
+              "contact_info_icon": "pe-7s-mail",
+              "address_title": "Email:",
+              "address_description": "info@example.com"
+            }
+          },
+          "1524908603304": {
+            "type": "contact_details",
+            "settings": {
+              "contact_info_icon": "pe-7s-call",
+              "address_title": "Phone:",
+              "address_description": "(800) 0123 456 789"
+            }
+          }
+        },
+        "block_order": [
+          "1524908451795",
+          "1524908456997",
+          "1524908603304"
+        ],
+        "settings": {
+          "loca_details_enable": true,
+          "loca_details_title": "Location & Details"
+        }
+      },
+      "about-us": {
+        "type": "about-us",
+        "blocks": {
+          "1524908654828": {
+            "type": "about_story",
+            "settings": {
+              "about_story_img_enable": true,
+              "about_story_img": "shopify:\/\/shop_images\/211.png",
+              "about_story_img_position": "left",
+              "about_story_title": "WELCOME TO <span>ezone<\/span>",
+              "about_story_des": "ezone provide how all this mistaken idea of denouncing pleasure and sing pain was born an will give you a complete account of the system, and expound the actual teachings of the eat explorer.",
+              "about_story_title_btm": "WE START AT 2015",
+              "about_story_des_btm": "ezone provide how all this mistaken idea of denouncing pleasure and sing pain was born an will give you a complete account of the system, and expound the actual teachings of the eat explorer."
+            }
+          },
+          "1524908672275": {
+            "type": "about_banner",
+            "settings": {
+              "banner_1_enable": true,
+              "banner_img1": "shopify:\/\/shop_images\/ban-1.jpg",
+              "banner_url1": "shopify:\/\/collections\/all",
+              "product_column_lg1": "4",
+              "product_column_md1": "4",
+              "banner_2_enable": true,
+              "banner_img2": "shopify:\/\/shop_images\/ban-2.jpg",
+              "banner_url2": "shopify:\/\/collections\/all",
+              "product_column_lg2": "4",
+              "product_column_md2": "4",
+              "banner_3_enable": true,
+              "banner_img3": "shopify:\/\/shop_images\/ban-3.jpg",
+              "banner_url3": "shopify:\/\/collections\/all",
+              "product_column_lg3": "4",
+              "product_column_md3": "4"
+            }
+          },
+          "1524908697118": {
+            "type": "goal_area",
+            "settings": {
+              "goal_1_enable": true,
+              "goal_title1": "OUR VISSION",
+              "goal_des1": "ezone provide how all this mistaken idea of denouncing pleasure and sing pain was born an will give you a ete account of the system, and expound the actual teangs of the eat explorer of the truth.",
+              "goal_column_lg1": "4",
+              "goal_column_md1": "4",
+              "goal_2_enable": true,
+              "goal_title2": "OUR MISSION",
+              "goal_des2": "ezone provide how all this mistaken idea of denouncing pleasure and sing pain was born an will give you a ete account of the system, and expound the actual teangs of the eat explorer of the truth.",
+              "goal_column_lg2": "4",
+              "goal_column_md2": "4",
+              "goal_3_enable": true,
+              "goal_title3": "OUR GOAL",
+              "goal_des3": "ezone provide how all this mistaken idea of denouncing pleasure and sing pain was born an will give you a ete account of the system, and expound the actual teangs of the eat explorer of the truth.",
+              "goal_column_lg3": "4",
+              "goal_column_md3": "4"
+            }
+          },
+          "1524908711245": {
+            "type": "choose_area",
+            "settings": {
+              "choose_area_title": "YOU CAN CHOOSE US BECAUSE <br>WE ALWAYS PROVIDE IMPORTANCE...",
+              "choose_area_des": "ezone provide how all this mistaken idea of denouncing pleasure and sing pain was born an will give you a complete account of the system, and expound the actual teachings of the eat explorer.",
+              "choose_wraaper_img_enable": true,
+              "choose_wraaper_img_position": "right",
+              "choose_wraaper_img": "shopify:\/\/shop_images\/22.png",
+              "choose_wraaper_1_enable": true,
+              "choose_area_title_1": "FAST DELIVERY",
+              "choose_area_des_1": "ezone provide how all this mistaken dea of denouncing pleasure and sing",
+              "choose_wraaper_2_enable": true,
+              "choose_area_title_2": "SECURE PAYMENT",
+              "choose_area_des_2": "ezone provide how all this mistaken dea of denouncing pleasure and sing",
+              "choose_wraaper_3_enable": true,
+              "choose_area_title_3": "EASY ORDER TRACKING",
+              "choose_area_des_3": "ezone provide how all this mistaken dea of denouncing pleasure and sing",
+              "choose_wraaper_4_enable": true,
+              "choose_area_title_4": "24\/7 SUPPORT",
+              "choose_area_des_4": "ezone provide how all this mistaken dea of denouncing pleasure and sing",
+              "choose_wraaper_5_enable": true,
+              "choose_area_title_5": "QUALITY PRODUCT",
+              "choose_area_des_5": "ezone provide how all this mistaken dea of denouncing pleasure and sing",
+              "choose_wraaper_6_enable": true,
+              "choose_area_title_6": "MONEY BACK GUARNTEE",
+              "choose_area_des_6": "ezone provide how all this mistaken dea of denouncing pleasure and sing",
+              "choose_wraaper_7_enable": true,
+              "choose_area_title_7": "FREE RETURN",
+              "choose_area_des_7": "ezone provide how all this mistaken dea of denouncing pleasure and sing"
+            }
+          },
+          "1524908731984": {
+            "type": "team_img_area",
+            "settings": {
+              "team_img": "shopify:\/\/shop_images\/39.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1524908654828",
+          "1524908672275",
+          "1524908697118",
+          "1524908711245",
+          "1524908731984"
+        ],
+        "settings": {
+        }
+      },
+      "about-us-testimonial": {
+        "type": "about-us-testimonial",
+        "blocks": {
+          "1524908797101": {
+            "type": "about_testimonial",
+            "settings": {
+              "about_client_img": "shopify:\/\/shop_images\/1_04245fc8-805c-4f48-98c5-5380ff338f87.png",
+              "about_client_comment": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum",
+              "about_client_signature": "",
+              "about_client_name": "Dr. Khairul Vasher Arif",
+              "about_client_designation": "CEO of KB’s Kitchen"
+            }
+          },
+          "1524908825069": {
+            "type": "about_testimonial",
+            "settings": {
+              "about_client_img": "shopify:\/\/shop_images\/1_04245fc8-805c-4f48-98c5-5380ff338f87.png",
+              "about_client_comment": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum",
+              "about_client_signature": "",
+              "about_client_name": "Dr. Khairul Vasher Arif",
+              "about_client_designation": "CEO of KB’s Kitchen"
+            }
+          },
+          "1524908832170": {
+            "type": "about_testimonial",
+            "settings": {
+              "about_client_img": "shopify:\/\/shop_images\/1_04245fc8-805c-4f48-98c5-5380ff338f87.png",
+              "about_client_comment": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum",
+              "about_client_signature": "",
+              "about_client_name": "Dr. Khairul Vasher Arif",
+              "about_client_designation": "CEO of KB’s Kitchen"
+            }
+          }
+        },
+        "block_order": [
+          "1524908797101",
+          "1524908825069",
+          "1524908832170"
+        ],
+        "settings": {
+          "about_testi_enable": true,
+          "about_bg_img": "",
+          "about_client_name_color": "",
+          "about_client_designation_color": "",
+          "about_client_comment_color": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1524118359684",
+      "1524118520468",
+      "1524119379457",
+      "1524119659328",
+      "1524120196366",
+      "1524120309409",
+      "1524120766681"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "ajax_cart_method": "drawer",
+      "cart_notes_enable": true,
+      "color_body_bg": "#fff",
+      "color_body_text": "#333333",
+      "color_borders": "#e5e5e5",
+      "color_footer_bg": "#f2f2f2",
+      "color_footer_social_link": "#bbbbbb",
+      "color_footer_text": "#636363",
+      "color_primary": "#747474",
+      "color_secondary": "#bbb",
+      "favicon_enable": false,
+      "footer_newsletter_enable": true,
+      "footer_social_enable": true,
+      "logo_use_image": false,
+      "social_facebook_link": "",
+      "social_twitter_link": ""
+    }
+  }
+}
