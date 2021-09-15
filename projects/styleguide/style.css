@@ -53,3 +53,39 @@
     background-color: #b88fc4;
     color: white;
 }
+
+.font-box {
+    display: inline-block;
+    padding: 30px;
+    margin: 10px auto;
+}
+
+.font-label {
+    text-decoration: underline;
+    font-size: 25px;
+    display: inline-block;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.arapey {
+    font-family: 'Arapey', serif;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
