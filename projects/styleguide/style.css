@@ -1,0 +1,45 @@
+.title {
+    display: block;
+}
+
+.sub-title {
+    text-align: center;
+}
+
+.container-subtitle {
+    text-align: center;
+}
+
+.swatch-box {
+    width: 75%;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.container {
+    display: block;
+}
+
+.container-color {
+    display: inline-block;
+}
+
+.color-box {
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px auto;
+    border: 3px solid black;
+    width: 20em;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.white {
+    background-color: white;
+    color: black;
+}
