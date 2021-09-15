@@ -21,7 +21,7 @@
     display: block;
 }
 
-.container-color {
+.container-content {
     display: inline-block;
 }
 
@@ -46,5 +46,10 @@
 
 .fuschia {
     background-color: #f60364;
+    color: white;
+}
+
+.mauve {
+    background-color: #b88fc4;
     color: white;
 }
