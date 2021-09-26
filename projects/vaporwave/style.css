@@ -1,6 +1,8 @@
 body {
 background-image: url("vaporwave-background.jpeg");
+/*  Cover breaks fullscreen image at this point
 background-size: cover;
+*/
 background-repeat: no-repeat;
 height: 100%;
 background-position: center;
