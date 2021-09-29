@@ -15,4 +15,21 @@ background-attachment: fixed;
 
 .card {
     margin-top: 15px;
+    border-color: #473f70!important;
+}
+
+.card-body {
+    background-color: #473f70!important;
+    color: white;
+    
+}
+
+.btn-primary {
+    background-color: #b05866!important;
+    border-color: #b05866!important;
+}
+
+.jumbotron {
+    margin-top: 2rem;
+    color: #b05866;
 }
