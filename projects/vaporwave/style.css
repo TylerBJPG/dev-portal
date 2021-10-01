@@ -33,3 +33,15 @@ background-attachment: fixed;
     margin-top: 2rem;
     color: #b05866;
 }
+
+ul {
+    list-style: none;
+}
+
+.crossed:before { 
+    content: '❌'; 
+} 
+
+.ticked:before { 
+    content: '✔️'; 
+} 
