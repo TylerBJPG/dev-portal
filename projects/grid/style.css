@@ -1,0 +1,10 @@
+.grid {
+    border: 5px solid black;
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    grid-template-columns: 60px 60px;
+    grid-template-rows: auto;
+}
+
+
