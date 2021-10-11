@@ -14,6 +14,8 @@
     grid-column-end: 2;
     grid-row-start: 1;
     grid-row-end: 3;
+    background-image: url('image/nikon.jpg');
+    background-size: cover;
 }
 
 .item-2 {
